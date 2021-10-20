@@ -10,8 +10,12 @@ body {
     font-family: Averia Serif Libre;
     font-weight: bold;
     font-style: normal;
-    line-height: 36px;
     text-align: center;
-    text-transform: uppercase;
-    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  img{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
   }
